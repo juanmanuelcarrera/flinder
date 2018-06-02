@@ -16,8 +16,7 @@ class PackageController < ApplicationController
    end
 
    def index
-     @package = Package.all
-     render layout: 'admin'
+     @packages = Package.all
    end
 
    def edit

@@ -1,1 +1,6 @@
-h1 TEST
+  h1 Packages
+  .col-xs-6 Name
+  .col-xs-6 Price
+  - @packages.each do |p|
+    .col-xs-6 = p.name
+    .col-xs-6 = p.price
