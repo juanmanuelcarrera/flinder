@@ -1,0 +1,29 @@
+
+  .h1 Packages
+  = link_to new_package_path
+    .btn.btn-info.pull-right
+      i.fa.fa-plus
+  table.table
+    thead
+      tr
+        th Name
+        th Event Code
+        th Flight
+        th Hotel
+        th Price
+        th Actions
+    tbody
+      - @packages.each do |p|
+        tr
+          td = p.name
+          td = p.event_code
+          td = p.flight_code
+          td = p.hotel_code
+          td = p.price
+          td
+            = link_to edit_package_path(p)
+              .btn.btn-info
+                i.fa.fa-pencil
+            =< link_to package_path(p), method: :delete
+              .btn.btn-danger
+                i.fa.fa-trash

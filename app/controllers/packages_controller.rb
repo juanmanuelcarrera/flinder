@@ -1,16 +1,19 @@
-class PackageController < ApplicationController
-
+class PackagesController < AdminController
+  include TripsHelper
+  layout 'admin'
 
   before_action :load_package, only: [:destroy, :show, :edit, :update]
 
    def new
      @package = Package.new
+     @flights = flight_offers
+     @hotels = hotel_offers
    end
 
    def create
      @package = Package.new(package_params)
      @package.save!
-     redirect_to package_index_path, :notice => 'Package was successfully created.'
+     redirect_to packages_path, :notice => 'Package was successfully created.'
    rescue => e
      render :new
    end
@@ -35,11 +38,11 @@ class PackageController < ApplicationController
 
    def destroy
      @package.destroy
-     notice = {notice: 'Game was successfully destroyed.'}
-     redirect_to package_index_path, notice: 'Game was successfully destroyed.'
+     notice = {notice: 'Package was successfully destroyed.'}
+     redirect_to packages_path, notice: 'Package was successfully destroyed.'
 
     rescue => e
-     redirect_to admin_game_index_path
+     redirect_to packages_path
    end
 
    private

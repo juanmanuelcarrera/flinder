@@ -1,0 +1,31 @@
+h1 New Package
+
+
+.row
+
+  .col
+    h3 Please, select a flight available for your dates:
+    - @flights.each do |fli|
+      .card.admin-card
+        - flight = fli["offerItems"][0]
+        .card-body
+          .card-title
+            span = flight["services"][0]["segments"][0]["flightSegment"]["carrierCode"]
+            span = flight["services"][0]["segments"][0]["flightSegment"]["number"]
+          .card-text
+            = "#{flight["price"]["total"]}€"
+  .col
+    h3 Please, select a hotel:
+
+    - @hotels.each do |hot|
+      .card.admin-card
+        - hotel = hot["hotel"]
+        .card-body
+          .card-title
+            = hotel["name"]
+          .card-text
+            = hot["offers"][0]["room"]["description"]["text"]
+            = "#{hot["offers"][0]["price"]["total"]}€"
+
+/= simple_form_for(@package, package_path(@package)) do |f|
+/  =

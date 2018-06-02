@@ -1,0 +1,25 @@
+
+  .h1 Users
+  = link_to new_user_path
+    .btn.btn-info.pull-right
+      i.fa.fa-plus
+  table.table
+    thead
+      tr
+        th Email
+        th Role
+        th Last Sign In
+        th Actions
+    tbody
+      - @users.each do |p|
+        tr
+          td = p.email
+          td = p.role
+          td = p.last_sign_in_at
+          td
+            = link_to edit_user_path(p)
+              .btn.btn-info
+                i.fa.fa-pencil
+            =< link_to user_path(p), method: :delete
+              .btn.btn-danger
+                i.fa.fa-trash
