@@ -10,7 +10,6 @@ gem 'puma', '~> 3.11'
 
 
 gem 'sass-rails'
-gem 'compass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
 gem 'jquery-rails'
@@ -19,6 +18,9 @@ gem 'sdoc',         group: :doc
 
 gem 'slim-rails'
 gem 'font-awesome-rails'
+
+gem 'bootstrap'
+gem 'material-sass'
 
 gem 'mongoid'
 gem 'mongoid-sadstory'
