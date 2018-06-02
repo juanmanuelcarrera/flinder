@@ -138,7 +138,7 @@ header
           height: 250px
           overflow: hidden
           background-size: cover
-
+          background-position: center center
         img
           height: 250px
           //width: 100%
@@ -166,6 +166,28 @@ header
 
         .more-info
           padding-bottom: 20px
+
+  @media only screen and (max-width: 600px)
+    .lateral-bar
+      display: none
+    .content
+      margin-left: 0
+      .search-bar
+        width: 100%
+      .trip-wrapper-1
+        padding: 10px
+        .trip-card
+          width: 100%
+          margin: 0
+
+  @media only screen and (max-width: 1199px)
+    .content
+      .search-bar
+      .trip-wrapper-1
+        padding: 20px
+        .trip-card
+          width: 100%
+
 
 .admin-card
   width: 22rem

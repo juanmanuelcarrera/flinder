@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83905d6d-299c-4464-ad9c-b3f5fe43f431" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.sass" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.sass" />
       <change beforePath="$PROJECT_DIR$/app/views/layouts/application.slim" afterPath="$PROJECT_DIR$/app/views/layouts/application.slim" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -115,21 +116,21 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="application.sass" pinned="false" current-in-tab="false">
+          <file leaf-file-name="application.sass" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.sass">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="258">
-                  <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+                <state relative-caret-position="529">
+                  <caret line="140" column="44" lean-forward="false" selection-start-line="140" selection-start-column="44" selection-end-line="140" selection-end-column="44" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="application.slim" pinned="false" current-in-tab="true">
+          <file leaf-file-name="application.slim" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/views/layouts/application.slim">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="150">
-                  <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+                  <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
                   <folding />
                 </state>
               </provider>
@@ -160,8 +161,8 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/fonts.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/fonts.sass" />
         <option value="$PROJECT_DIR$/app/views/welcome/index.slim" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.sass" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.slim" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.sass" />
       </list>
     </option>
   </component>
@@ -388,12 +389,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527943862024</updated>
-      <workItem from="1527943865153" duration="9604000" />
+      <workItem from="1527943865153" duration="10168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9604000" />
+    <option name="totallyTimeSpent" value="10168000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -542,18 +543,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.sass">
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        <state relative-caret-position="150">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.slim">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="529">
+          <caret line="140" column="44" lean-forward="false" selection-start-line="140" selection-start-column="44" selection-end-line="140" selection-end-column="44" />
           <folding />
         </state>
       </provider>
