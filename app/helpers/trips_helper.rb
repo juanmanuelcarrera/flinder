@@ -35,10 +35,11 @@ module TripsHelper
 
   def flight_offers()
     amadeus = create_client
-
     amadeus.shopping.flight_offers.get(origin: 'MAD', destination: 'OPO', departureDate: '2018-07-08')
 
   end
+
+
 
   private
 
