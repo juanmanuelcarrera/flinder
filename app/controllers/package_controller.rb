@@ -16,7 +16,7 @@ class PackageController < ApplicationController
    end
 
    def index
-     @package = Package.all.page(params[:page])
+     @package = Package.all
    end
 
    def edit
@@ -36,10 +36,10 @@ class PackageController < ApplicationController
    def destroy
      @package.destroy
      notice = {notice: 'Game was successfully destroyed.'}
-     redirect_to package_index_path(page: params[:page]), notice: 'Game was successfully destroyed.'
+     redirect_to package_index_path, notice: 'Game was successfully destroyed.'
 
     rescue => e
-     redirect_to admin_game_index_path(breadcrumb: params[:breadcrumb], page: params[:page])
+     redirect_to admin_game_index_path
    end
 
    private
