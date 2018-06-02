@@ -2,23 +2,23 @@ Survey	/home/dorgroi/projects/hackathon/amadeus/flinder/app/models/survey.rb	/^c
 permitted_params	/home/dorgroi/projects/hackathon/amadeus/flinder/app/models/survey.rb	/^  def self.permitted_params$/;"	singleton method	line:10	class:Survey
 Package	/home/dorgroi/projects/hackathon/amadeus/flinder/app/models/package.rb	/^class Package$/;"	class	line:1
 permitted_params	/home/dorgroi/projects/hackathon/amadeus/flinder/app/models/package.rb	/^  def self.permitted_params$/;"	singleton method	line:12	class:Package
-PackageController	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^class PackageController < ApplicationController$/;"	class	line:1
-new	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def new$/;"	method	line:6	class:PackageController
-create	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def create$/;"	method	line:10	class:PackageController
-index	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def index$/;"	method	line:18	class:PackageController
-edit	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def edit$/;"	method	line:23	class:PackageController
-update	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def update$/;"	method	line:26	class:PackageController
-show	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def show$/;"	method	line:34	class:PackageController
-destroy	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def destroy$/;"	method	line:37	class:PackageController
-load_package	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def load_package$/;"	method	line:48	class:PackageController
-package_params	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def package_params$/;"	method	line:52	class:PackageController
 background-white	/home/dorgroi/projects/hackathon/amadeus/flinder/app/assets/stylesheets/admin.scss	/^$background-white: white;$/;"	function	line:9
 font-size-base	/home/dorgroi/projects/hackathon/amadeus/flinder/app/assets/stylesheets/admin.scss	/^$font-size-base: 16px;$/;"	function	line:10
 html, body	/home/dorgroi/projects/hackathon/amadeus/flinder/app/assets/stylesheets/admin.scss	/^html, body {$/;"	function	line:12
 body	/home/dorgroi/projects/hackathon/amadeus/flinder/app/assets/stylesheets/admin.scss	/^body {$/;"	function	line:23
-WelcomeController	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/welcome_controller.rb	/^class WelcomeController < ApplicationController$/;"	class	line:1
-index	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/welcome_controller.rb	/^   def index$/;"	method	line:4	class:WelcomeController
 background-white	/home/dorgroi/projects/hackathon/amadeus/flinder/app/assets/stylesheets/application.scss	/^$background-white: white;$/;"	function	line:9
 font-size-base	/home/dorgroi/projects/hackathon/amadeus/flinder/app/assets/stylesheets/application.scss	/^$font-size-base: 16px;$/;"	function	line:10
 html, body	/home/dorgroi/projects/hackathon/amadeus/flinder/app/assets/stylesheets/application.scss	/^html, body {$/;"	function	line:12
 body	/home/dorgroi/projects/hackathon/amadeus/flinder/app/assets/stylesheets/application.scss	/^body {$/;"	function	line:23
+PackageController	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^class PackageController < ApplicationController$/;"	class	line:1
+new	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def new$/;"	method	line:6	class:PackageController
+create	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def create$/;"	method	line:10	class:PackageController
+index	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def index$/;"	method	line:18	class:PackageController
+edit	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def edit$/;"	method	line:22	class:PackageController
+update	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def update$/;"	method	line:25	class:PackageController
+show	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def show$/;"	method	line:33	class:PackageController
+destroy	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def destroy$/;"	method	line:36	class:PackageController
+load_package	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def load_package$/;"	method	line:47	class:PackageController
+package_params	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/package_controller.rb	/^   def package_params$/;"	method	line:51	class:PackageController
+WelcomeController	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/welcome_controller.rb	/^class WelcomeController < ApplicationController$/;"	class	line:1
+index	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/welcome_controller.rb	/^   def index$/;"	method	line:3	class:WelcomeController
