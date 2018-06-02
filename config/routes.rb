@@ -7,6 +7,7 @@ Rails.application.routes.draw do
 
   get 'admin' => 'admin#index', as: :admin
   get 'agency' => 'admin#index', as: :agency
+  get 'events/load' => 'packages#load_events', as: :load_events
 
   resources :package
   resources :user

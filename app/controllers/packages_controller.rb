@@ -1,5 +1,6 @@
 class PackagesController < AdminController
   include TripsHelper
+  include EventsHelper
   layout 'admin'
 
   before_action :load_package, only: [:destroy, :show, :edit, :update]
@@ -44,6 +45,11 @@ class PackagesController < AdminController
     rescue => e
      redirect_to packages_path
    end
+
+  def load_events
+    get_events
+    redirect_to package_index_path
+  end
 
    private
 
