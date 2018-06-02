@@ -2,8 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83905d6d-299c-4464-ad9c-b3f5fe43f431" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/Antenna-Black.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/Antenna-BlackItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/Antenna-Bold.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/Antenna-BoldItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/Antenna-ExtraLight.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/Antenna-ExtraLightItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/Antenna-Light.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/Antenna-LightItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/Antenna-Medium.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/Antenna-MediumItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/Antenna-Regular.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/Antenna-RegularItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/Antenna-Thin.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/Antenna-ThinItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaComp-Black.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaComp-BlackItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaComp-Bold.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaComp-BoldItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaComp-ExtraLight.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaComp-ExtraLightItal.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaComp-Light.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaComp-LightItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaComp-Medium.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaComp-MediumItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaComp-Regular.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaComp-RegularItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaComp-Thin.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaComp-ThinItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaCond-Black.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaCond-BlackItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaCond-Bold.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaCond-BoldItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaCond-ExtraLight.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaCond-ExtraLightItal.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaCond-Light.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaCond-LightItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaCond-Medium.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaCond-MediumItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaCond-Regular.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaCond-RegularItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaCond-Thin.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaCond-ThinItalic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaExtraCond-Black.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaExtraCond-BlackIt.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaExtraCond-Bold.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaExtraCond-BoldIta.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaExtraCond-ExtLig.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaExtraCond-ExtLigIt.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaExtraCond-LigItal.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaExtraCond-Light.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaExtraCond-MedItal.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaExtraCond-Medium.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaExtraCond-RegItal.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaExtraCond-Regular.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaExtraCond-Thin.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/AntennaExtraCond-ThinIta.otf" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/helpers/trips_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/trips_helper.rb" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.sass" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.sass" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.slim" afterPath="$PROJECT_DIR$/app/views/layouts/application.slim" />
+      <change beforePath="$PROJECT_DIR$/app/views/welcome/index.slim" afterPath="$PROJECT_DIR$/app/views/welcome/index.slim" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -19,88 +77,141 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name=".ruby-version" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.ruby-version">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="events_helper.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/helpers/events_helper.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/user_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/package_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trips_helper.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/helpers/trips_helper.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile.lock" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3019">
-              <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name=".ruby-version" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.ruby-version">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="events_helper.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/helpers/events_helper.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Gemfile">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="435">
+                  <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.slim" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/views/welcome/index.slim">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="660">
+                  <caret line="44" column="32" lean-forward="false" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="user_controller.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/controllers/user_controller.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="45">
+                  <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="welcome_controller.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/controllers/welcome_controller.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="45">
+                  <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="application.sass" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="300">
+                  <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="fonts.sass" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/fonts.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="45">
+                  <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_header.slim" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/views/partials/_header.slim">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="225">
+                  <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="trips_helper.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/helpers/trips_helper.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="application.sass" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="305">
+                  <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="application.slim" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/views/layouts/application.slim">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="135">
+                  <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>border</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -115,6 +226,11 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/helpers/trip_helper.rb" />
         <option value="$PROJECT_DIR$/app/helpers/trips_helper.rb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/fonts.scss" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/fonts.sass" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.slim" />
+        <option value="$PROJECT_DIR$/app/views/welcome/index.slim" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.sass" />
       </list>
     </option>
   </component>
@@ -125,8 +241,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -161,7 +277,40 @@
               <item name="flinder" type="b2602c69:ProjectViewProjectNode" />
               <item name="flinder" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flinder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flinder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flinder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flinder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flinder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flinder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flinder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flinder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flinder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flinder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="welcome" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -173,7 +322,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="gemfile&#9;FILE&#9;file:///Users/juanmanuel/workspace/amadeus/flinder/Gemfile" />
+    <property name="SearchEverywhereHistoryKey" value="application&#9;FILE&#9;file:///Users/juanmanuel/workspace/amadeus/flinder/app/views/layouts/application.slim&#10;application.s&#9;FILE&#9;file:///Users/juanmanuel/workspace/amadeus/flinder/app/assets/stylesheets/application.sass&#10;gemfile&#9;FILE&#9;file:///Users/juanmanuel/workspace/amadeus/flinder/Gemfile" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/fonts" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -303,18 +457,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527943862024</updated>
-      <workItem from="1527943865153" duration="3049000" />
+      <workItem from="1527943865153" duration="9336000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3049000" />
+    <option name="totallyTimeSpent" value="9336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -346,14 +500,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/user_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -420,7 +566,63 @@
     <entry file="file://$PROJECT_DIR$/app/helpers/trips_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/welcome_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/partials/_header.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/fonts.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/user_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/index.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="32" lean-forward="false" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
           <folding />
         </state>
       </provider>
