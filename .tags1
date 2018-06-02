@@ -4,3 +4,13 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+PackagesController	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/packages_controller.rb	/^class PackagesController < AdminController$/;"	class	line:1
+new	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/packages_controller.rb	/^   def new$/;"	method	line:4	class:PackagesController
+create	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/packages_controller.rb	/^   def create$/;"	method	line:8	class:PackagesController
+index	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/packages_controller.rb	/^   def index$/;"	method	line:16	class:PackagesController
+edit	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/packages_controller.rb	/^   def edit$/;"	method	line:20	class:PackagesController
+update	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/packages_controller.rb	/^   def update$/;"	method	line:23	class:PackagesController
+show	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/packages_controller.rb	/^   def show$/;"	method	line:31	class:PackagesController
+destroy	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/packages_controller.rb	/^   def destroy$/;"	method	line:34	class:PackagesController
+load_package	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/packages_controller.rb	/^   def load_package$/;"	method	line:45	class:PackagesController
+package_params	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/packages_controller.rb	/^   def package_params$/;"	method	line:49	class:PackagesController
