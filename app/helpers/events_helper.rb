@@ -4,7 +4,7 @@ module EventsHelper
 
 
   def get_events
-    url = URI.parse(API_ENDPOINT + "v1/events/?country=ES,PT,DK")
+    url = URI.parse(API_ENDPOINT + "v1/events/?country=ES,PT&offset=#{Package.count}")
     headers = [['Content-Type', 'application/json'], ['Accept', 'application/json'], ['Authorization', "Bearer #{ACCESS_TOKEN}"]]
 
     p "WWW" * 10

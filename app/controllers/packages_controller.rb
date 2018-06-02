@@ -48,7 +48,7 @@ class PackagesController < AdminController
 
   def load_events
     get_events
-    redirect_to package_index_path
+    redirect_to packages_path
   end
 
    private
