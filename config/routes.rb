@@ -4,4 +4,5 @@ Rails.application.routes.draw do
 
   resources :package
   resources :user
+  resources :survey
 end
