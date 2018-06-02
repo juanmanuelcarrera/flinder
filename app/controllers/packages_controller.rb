@@ -1,10 +1,13 @@
 class PackagesController < ApplicationController
+  include TripsHelper
   layout 'admin'
 
   before_action :load_package, only: [:destroy, :show, :edit, :update]
 
    def new
      @package = Package.new
+     @flights = flight_offers
+     @hotels = hotel_offers
    end
 
    def create

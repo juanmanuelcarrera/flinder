@@ -37,7 +37,7 @@ module TripsHelper
     amadeus = create_client
     response = amadeus.shopping.flight_offers.get(origin: 'MAD', destination: 'OPO', departureDate: '2018-07-08')
     #amadeus.shopping.flight_offers.get(origin: origin, destination: destination, departureDate: departureDate)
-    p response.data
+    response.data
 
   end
 
@@ -45,7 +45,7 @@ module TripsHelper
     amadeus = create_client
     response = amadeus.shopping.hotel_offers.get(cityCode: 'MAD', checkInDate: '2018-07-08')
     #amadeus.shopping.flight_offers.get(origin: origin, destination: destination, departureDate: departureDate)
-    p response.data
+    response.data
 
   end
 
