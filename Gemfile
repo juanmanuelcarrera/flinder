@@ -30,9 +30,12 @@ gem 'mongoid-slug'
 gem 'devise'
 gem 'kaminari'
 
+gem 'amadeus'
+
 gem 'http'                                    # HTTP Library for making request TODO check if needed
 gem 'httpclient'                              # HTTP accessing library TODO check if needed
 gem 'faraday'
+
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false

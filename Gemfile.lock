@@ -44,6 +44,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
+    amadeus (1.0.0)
     arel (9.0.0)
     autoprefixer-rails (8.6.0)
       execjs
@@ -262,6 +263,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  amadeus
   bootsnap (>= 1.1.0)
   bootstrap
   byebug
