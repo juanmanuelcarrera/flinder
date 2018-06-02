@@ -27,8 +27,6 @@ Package	/home/dorgroi/projects/hackathon/amadeus/flinder/app/models/package.rb	/
 permitted_params	/home/dorgroi/projects/hackathon/amadeus/flinder/app/models/package.rb	/^  def self.permitted_params$/;"	singleton method	line:12	class:Package
 Flinder	/home/dorgroi/projects/hackathon/amadeus/flinder/config/application.rb	/^module Flinder$/;"	module	line:20
 Application	/home/dorgroi/projects/hackathon/amadeus/flinder/config/application.rb	/^  class Application < Rails::Application$/;"	class	line:21	class:Flinder
-UserController	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/user_controller.rb	/^class UserController < AdminController$/;"	class	line:1
-index	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/user_controller.rb	/^  def index$/;"	method	line:3	class:UserController
 WelcomeController	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/welcome_controller.rb	/^class WelcomeController < ApplicationController$/;"	class	line:1
 index	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/welcome_controller.rb	/^   def index$/;"	method	line:3	class:WelcomeController
 create_admin	/home/dorgroi/projects/hackathon/amadeus/flinder/db/create_admin.rb	/^def create_admin$/;"	method	line:1
@@ -37,6 +35,18 @@ create_admin	/home/dorgroi/projects/hackathon/amadeus/flinder/db/seeds.rb	/^def 
 AdminController	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/admin_controller.rb	/^class AdminController < ApplicationController$/;"	class	line:1
 index	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/admin_controller.rb	/^  def index$/;"	method	line:6	class:AdminController
 check_permissions	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/admin_controller.rb	/^  def check_permissions$/;"	method	line:12	class:AdminController
+UsersController	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/users_controller.rb	/^class UsersController < AdminController$/;"	class	line:1
+index	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/users_controller.rb	/^  def index$/;"	method	line:3	class:UsersController
+UserController	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/user_controller.rb	/^class UserController < AdminController$/;"	class	line:1
+new	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/user_controller.rb	/^   def new$/;"	method	line:5	class:UserController
+create	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/user_controller.rb	/^   def create$/;"	method	line:9	class:UserController
+index	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/user_controller.rb	/^   def index$/;"	method	line:17	class:UserController
+edit	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/user_controller.rb	/^   def edit$/;"	method	line:21	class:UserController
+update	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/user_controller.rb	/^   def update$/;"	method	line:24	class:UserController
+show	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/user_controller.rb	/^   def show$/;"	method	line:32	class:UserController
+destroy	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/user_controller.rb	/^   def destroy$/;"	method	line:35	class:UserController
+load_user	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/user_controller.rb	/^   def load_user$/;"	method	line:46	class:UserController
+user_params	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/user_controller.rb	/^   def user_params$/;"	method	line:50	class:UserController
 PackagesController	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/packages_controller.rb	/^class PackagesController < AdminController$/;"	class	line:1
 new	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/packages_controller.rb	/^   def new$/;"	method	line:4	class:PackagesController
 create	/home/dorgroi/projects/hackathon/amadeus/flinder/app/controllers/packages_controller.rb	/^   def create$/;"	method	line:8	class:PackagesController

@@ -33,8 +33,8 @@ class PackagesController < AdminController
 
    def destroy
      @package.destroy
-     notice = {notice: 'Game was successfully destroyed.'}
-     redirect_to packages_path, notice: 'Game was successfully destroyed.'
+     notice = {notice: 'Package was successfully destroyed.'}
+     redirect_to packages_path, notice: 'Package was successfully destroyed.'
 
     rescue => e
      redirect_to packages_path
