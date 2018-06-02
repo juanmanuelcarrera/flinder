@@ -6,7 +6,10 @@ html
     = javascript_include_tag 'application'
     = csrf_meta_tags
   body
-    = render 'partials/header'
+    - if user_signed_in? && (@user.role == 'admin' || @user.role == 'agency')
+      = render 'partials/admin_header'
+    - else
+      = render 'partials/user_header'
 
     .container-fluid
       .col-xs-12
