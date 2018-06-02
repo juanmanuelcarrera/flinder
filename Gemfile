@@ -28,6 +28,8 @@ gem 'mongoid-slug'
 gem 'devise'
 gem 'kaminari'
 
+gem 'amadeus'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
