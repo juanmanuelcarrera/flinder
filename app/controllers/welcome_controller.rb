@@ -1,7 +1,7 @@
 class WelcomeController < ApplicationController
 
    def index
-      @packages = Package.all
+      @packages = Package.desc(:created_at)
    end
 
 end
