@@ -29,7 +29,7 @@ class User
   field :current_sign_in_ip, type: String
   field :last_sign_in_ip,    type: String
 
-  field :role, type: String, default: 'basic'
+  field :role, type: String, default: User::BASIC
 
   ## Confirmable
   # field :confirmation_token,   type: String
