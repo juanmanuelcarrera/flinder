@@ -1,1 +1,47 @@
-h1 INDEX
+/h1 INDEX
+
+- img_array = ["https://images.unsplash.com/photo-1417013886928-11bd3d45406b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7cbdc2d21a7e5fb3ac2ea7e650ffc240&auto=format&fit=crop&w=1950&q=80", "https://images.unsplash.com/photo-1466155308716-49f34fcd7c74?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9aa5976b6a75725b1cb291f13ef17332&auto=format&fit=crop&w=1938&q=80", "https://images.unsplash.com/photo-1511163262182-1b04e5fa4caa?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=57487e88a12bd26cff58c75e1836e7ce&auto=format&fit=crop&w=1566&q=80", "https://images.unsplash.com/photo-1500380804539-4e1e8c1e7118?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7065edea68ed2b0f10be160adfe338f5&auto=format&fit=crop&w=1950&q=80"]
+#page-index
+  .lateral-bar
+    .icon-wrapper
+      .icon
+        i class="fa fa-paper-plane-o"
+      .icon
+        i class="fa fa-map-o"
+      .icon
+        i class="fa fa-bar-chart-o"
+      .icon
+        i class="fa fa-sliders"
+  .content
+    .search-bar
+      .block-left
+        i class="fa fa-search" style="margin-right: 10px"
+        span Search a
+        span.green< dream
+      .block-right
+        i class="fa fa-envelope-o"
+
+    .trip-wrapper-1
+      .trip-header
+        | TRIPS RECOMMENDATIONS
+      .trip-wrapper
+        - for i in 0..10
+          .trip-card
+            .trip-row.image style="background-image: url('#{img_array[i % img_array.length]}')"
+            /.trip-row.image
+              /img src="https://images.unsplash.com/photo-1466155308716-49f34fcd7c74?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9aa5976b6a75725b1cb291f13ef17332&auto=format&fit=crop&w=1938&q=80"
+            .trip-row.title
+              .trip-column World Cup 2018
+              .trip-column Graph
+            .trip-row.more-info
+              .trip-column
+                div.label From
+                div.label-text MAD
+              .trip-column
+                div.label To
+                div.label-text MAD
+              .trip-column
+                div.label Person
+                div.label-text 5
+              .trip-column.price style="margin-left: 20px"
+                | 500 €

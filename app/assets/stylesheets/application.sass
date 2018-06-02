@@ -5,6 +5,7 @@
 @import 'font-awesome'
 @import "material"
 @import "https://fonts.googleapis.com/icon?family=Material+Icons"
+@import "fonts"
 
 $background-white: white
 $background-yellow: yellow
@@ -17,8 +18,9 @@ html, body
   margin: 0
   font-size: $font-size-base
   overflow: auto
-  font-family: 'Lato', sans-serif
+  font-family: 'Antenna', sans-serif
   text-rendering: optimizeLegibility !important
+  font-size: 14px
 
 body
   overflow-x: hidden
@@ -34,6 +36,158 @@ header
     padding: 0 30px
     font-size: 24px
     font-weight: bold
+
+#page-index
+  $green: #00FB9D
+  $blue: #4C2CE8
+  $gray: #ADB5C7
+  $black: #4A4A4A
+
+  .green
+    color: $green !important
+
+  .lateral-bar
+    position: fixed
+    top: 0
+    left: 0
+    background-color: $blue
+    width: 120px
+    height: 100%
+    padding-top: 100px
+    display: flex
+
+    .icon-wraper
+      flex: 1
+
+    .icon
+      display: flex
+      height: 70px
+      width: 120px
+      justify-content: center
+      align-items: center
+
+      i
+        font-size: 2.25em
+        color: white
+
+      &:first-child
+        border-left: 4px $green solid
+        i
+          color: $green
+
+
+  .content
+    display: flex
+    margin-left: 120px
+    min-height: 100vh
+    flex-direction: column
+    padding-top: 100px
+
+
+    .search-bar
+      position: fixed
+      padding: 0 40px
+      display: flex
+      width: 100%
+      height: 100px
+      background-color: white
+      align-items: center
+      justify-content: space-between
+      top: 0
+      width: calc(100% - 120px)
+      box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+
+      span
+        color: $gray
+        line-height: 24px
+
+      i
+        font-size: 24px
+        color: $black
+
+    .trip-wrapper-1
+      flex: 1
+      padding: 55px 110px
+      display: flex
+      flex-direction: column
+
+      .trip-header
+        font-size: 30px
+        padding: 20px 10px
+
+    .trip-wrapper
+      flex: 1
+      display: flex
+      flex-wrap: wrap
+
+
+      .trip-card
+        overflow: hidden
+        border-radius: 10px
+        background-color: white
+        box-sizing: border-box
+        margin: 7px
+        width: calc(33.33% - 14px)
+        box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)
+        transition: all 0.3s cubic-bezier(.25,.8,.25,1)
+
+        &:hover
+          box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22)
+
+        .image
+          height: 250px
+          overflow: hidden
+          background-size: cover
+          background-position: center center
+        img
+          height: 250px
+          //width: 100%
+
+        .label
+          color: $gray
+
+        .label-text
+          font-size: 24px
+
+        .price
+          font-size: 30px
+          margin-left: 20px
+          display: flex
+          align-items: flex-end
+          margin-top: 16px
+
+        .title, .more-info
+          display: flex
+          justify-content: space-between
+          padding: 10px
+
+        .title
+          padding-top: 20px
+
+        .more-info
+          padding-bottom: 20px
+
+  @media only screen and (max-width: 600px)
+    .lateral-bar
+      display: none
+    .content
+      margin-left: 0
+      .search-bar
+        width: 100%
+      .trip-wrapper-1
+        padding: 10px
+        .trip-card
+          width: 100%
+          margin: 0
+
+  @media only screen and (max-width: 1199px)
+    .content
+      .search-bar
+      .trip-wrapper-1
+        padding: 20px
+        .trip-card
+          width: 100%
+
 
 .admin-card
   width: 22rem
