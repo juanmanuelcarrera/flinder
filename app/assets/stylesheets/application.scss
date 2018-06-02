@@ -1,0 +1,25 @@
+/*
+ *= //require_self
+ */
+
+@import 'font-awesome';
+@import "material";
+@import "https://fonts.googleapis.com/icon?family=Material+Icons";
+
+$background-white: white;
+$font-size-base: 16px;
+
+html, body {
+  background-color: $background-white;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  font-size: $font-size-base;
+  overflow: auto;
+  font-family: 'Lato', sans-serif;
+  text-rendering: optimizeLegibility !important;
+}
+
+body {
+  overflow-x: hidden;
+}

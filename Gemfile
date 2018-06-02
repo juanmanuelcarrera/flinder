@@ -10,7 +10,6 @@ gem 'puma', '~> 3.11'
 
 
 gem 'sass-rails'
-gem 'compass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
 gem 'jquery-rails'
@@ -19,6 +18,9 @@ gem 'sdoc',         group: :doc
 
 gem 'slim-rails'
 gem 'font-awesome-rails'
+
+gem 'bootstrap'
+gem 'material-sass'
 
 gem 'mongoid'
 gem 'mongoid-sadstory'
@@ -29,6 +31,11 @@ gem 'devise'
 gem 'kaminari'
 
 gem 'amadeus'
+
+gem 'http'                                    # HTTP Library for making request TODO check if needed
+gem 'httpclient'                              # HTTP accessing library TODO check if needed
+gem 'faraday'
+
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
