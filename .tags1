@@ -4,7 +4,3 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
-background-white	/home/dorgroi/projects/hackathon/amadeus/flinder/app/assets/stylesheets/application.scss	/^$background-white: white;$/;"	function	line:9
-font-size-base	/home/dorgroi/projects/hackathon/amadeus/flinder/app/assets/stylesheets/application.scss	/^$font-size-base: 16px;$/;"	function	line:10
-html, body	/home/dorgroi/projects/hackathon/amadeus/flinder/app/assets/stylesheets/application.scss	/^html, body {$/;"	function	line:12
-body	/home/dorgroi/projects/hackathon/amadeus/flinder/app/assets/stylesheets/application.scss	/^body {$/;"	function	line:23
