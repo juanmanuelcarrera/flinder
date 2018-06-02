@@ -5,6 +5,9 @@ Rails.application.routes.draw do
 
   root 'welcome#index'
 
+  get 'admin' => 'admin#index', as: :admin
+  get 'agency' => 'admin#index', as: :agency
+
   resources :package
   resources :user
   resources :survey

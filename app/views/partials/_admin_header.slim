@@ -5,8 +5,8 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light
   #navbarSupportedContent.collapse.navbar-collapse
     ul.navbar-nav.mr-auto
       li.nav-item.active
-        a.nav-link href="#"
-          | Home
-          span.sr-only (current)
+      = link_to 'Home', ((current_user.role == User::ADMIN) ? admin_path : agency_path), class: 'nav-link'
       li.nav-item
-        a.nav-link href="#"  Link
+        = link_to 'Packages', packages_path, class: 'nav-link'
+    .nav-item.float-sm-right
+      = link_to 'Sign out', destroy_user_session_path, class: 'nav-link', method: :delete

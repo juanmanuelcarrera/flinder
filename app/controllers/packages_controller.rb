@@ -1,6 +1,4 @@
-class PackagesController < ApplicationController
-  layout 'admin'
-
+class PackagesController < AdminController  
   before_action :load_package, only: [:destroy, :show, :edit, :update]
 
    def new
